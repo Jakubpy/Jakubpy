@@ -1,9 +1,9 @@
-<h1 align="left">Hi there, I'm Jakub</h1>
+<h1 align="left">Hi, I'm Jakub</h1>
 <h3 align="left">Python Developer</h3>
 
 - 🌱 I’m currently learning: **Python || Relational Databases**
 
-- 📚 My favorite libraries: **NumPy || Pandas || SciPy || Matplotlib **
+- 📚 My favorite libraries: **NumPy || Pandas || SciPy || Matplotlib**
 
 - 📫 How to reach me: **jakub.bloch00@gmail.com**
 
