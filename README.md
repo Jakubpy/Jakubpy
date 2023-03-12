@@ -1,9 +1,10 @@
-<h1 align="left">Hi, I'm Jakub</h1>
-<h3 align="left">Python Developer</h3>
+<h1 align="left">Hello, I'm Jakub a programming student from Poland</h1>
 
 - 🌱 I’m currently learning: **Python || Relational Databases**
 
-- 📚 My favorite libraries: **NumPy || Pandas || SciPy || Matplotlib**
+- 📚 My favorite libraries: **NumPy || Pandas || SciPy || Matplotlib || TensorFlow**
+
+- 📟 Tools: **Jupyter || Pycharm || Visual Studio Code || Anaconda || MySQL || PostgreSQL || Microsoft 365 (office)**
 
 - 📫 How to reach me: **jakub.bloch00@gmail.com**
 
